@@ -1,0 +1,7 @@
+Conclución
+
+El proyecto que hemos hecho nos ha ayudado a practicar teoria que no habiamos entendido en clase, por ello al ser el primero que hemos hecho nos ha faltado tiempo, ya que muchas cosas no sabiamos como poder acabarlas.
+
+Nos hemos centrado basicamente en el back-nd de la pàgina para que todos los filtros salgan como pretendiamos desde un principio.
+
+En conclusión podriamos haber hecho una pagina más completa si no nos hubiesen salido tantos errores.
